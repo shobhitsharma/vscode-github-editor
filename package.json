@@ -4,6 +4,7 @@
   "description": "Theme based on Github public stylesheets and syntax",
   "version": "0.0.1",
   "publisher": "shobhitsharma",
+  "icon": "https://cdn01.onzu.com/2017/8/24/1/github-icon.png",
   "engines": {
     "vscode": "^1.15.0"
   },
