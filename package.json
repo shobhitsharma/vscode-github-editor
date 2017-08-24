@@ -1,29 +1,29 @@
 {
-    "name": "github-ui",
-    "displayName": "github-ui",
-    "description": "Theme based on Github public stylesheets and syntax",
-    "version": "0.1.0",
-    "publisher": "shobhitsharma",
-    "icon": "assets/github-icon.png",
-    "engines": {
-        "vscode": "^1.15.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "keywords": [
-      "github",
-      "github-white",
-      "github-ui",
-      "github theme"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Github UI",
-                "uiTheme": "vs",
-                "path": "./themes/github-ui-color-theme.json"
-            }
-        ]
-    }
+  "name": "github-ui",
+  "displayName": "github-ui",
+  "description": "Theme based on Github public stylesheets and syntax",
+  "version": "0.2.0",
+  "publisher": "shobhitsharma",
+  "icon": "assets/github-icon.png",
+  "engines": {
+    "vscode": "^1.15.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "github",
+    "github-white",
+    "github-ui",
+    "github theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Github UI",
+        "uiTheme": "vs",
+        "path": "./themes/github-ui-color-theme.json"
+      }
+    ]
+  }
 }
