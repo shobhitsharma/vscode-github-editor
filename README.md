@@ -1,5 +1,5 @@
 # Github UI
-| Theme based on github UI for vscode
+Code and Syntax theme for **vscode** inpired by Github styles.
 
 ## Install
 
