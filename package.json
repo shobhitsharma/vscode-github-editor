@@ -11,6 +11,12 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+      "github",
+      "github-white",
+      "github-ui",
+      "github theme"
+    ],
     "contributes": {
         "themes": [
             {

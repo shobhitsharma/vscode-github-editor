@@ -1,5 +1,5 @@
 # Github UI
-## Theme based on github ui for vscode
+| Theme based on github UI for vscode
 
 ## Install
 
@@ -7,6 +7,8 @@
 $ ext install shobhitsharma.github-ui
 ```
 
-### Syntax Preview
+Find it on marketplace at 
 
-![github-ui-preview](https://cdn01.onzu.com/2017/8/24/1/github-ui-sample.png)
+## Syntax Preview
+
+![github-ui-preview](https://cdn01.onzu.com/2017/8/24/2/github-ui-sample.png)
