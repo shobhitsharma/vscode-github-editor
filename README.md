@@ -1,13 +1,11 @@
 # Github UI
-Code and Syntax theme for **vscode** inpired by Github styles.
+Code and Syntax theme for **vscode** inpired by Github styles available on [marketplace here](https://marketplace.visualstudio.com/items?itemName=shobhitsharma.github-ui).
 
 ## Install
 
 ```shell
 $ ext install shobhitsharma.github-ui
 ```
-
-Find it on marketplace at 
 
 ## Syntax Preview
 
